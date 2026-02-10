@@ -220,22 +220,17 @@ Supported:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hirthickraj2015&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hirthickraj2015&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hirthickraj2015&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirthickraj2015&layout=compact&theme=radical&hide_border=true&langs_count=10" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirthickraj2015&layout=compact&theme=radical&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirthickraj2015&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirthickraj2015&theme=github-compact&hide_border=true&area=true" width="100%" />
 </div>
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 
 <br>
 
@@ -250,7 +245,6 @@ Supported:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
-
 ## 💼 Experience Timeline
 
 <div align="center">
