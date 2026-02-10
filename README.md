@@ -23,8 +23,7 @@
 <br>
 
 <div align="center">
-
-javascript
+'''
 const hirthick = {
     location: "Dublin, Ireland 🇮🇪",
     role: "Data & AI Engineer",
@@ -39,7 +38,7 @@ const hirthick = {
     openTo: "Data Engineering, ML Engineering, AI roles"
 };
 console.log("Production systems that actually scale 🚀");
-
+'''
 </div>
 <br>
 
