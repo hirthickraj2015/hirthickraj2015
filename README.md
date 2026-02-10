@@ -229,9 +229,9 @@ Supported:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirthickraj2015&layout=compact&theme=radical&hide_border=true&langs_count=10&custom_title=Most%20Used%20Languages" height="180" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirthickraj2015&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
-</div>
+</div> -->
 
 
 <br>
