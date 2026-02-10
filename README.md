@@ -24,8 +24,7 @@
 
 <div align="center">
 
-<table><tr><td>
-```javascript
+javascript
 const hirthick = {
     location: "Dublin, Ireland 🇮🇪",
     role: "Data & AI Engineer",
@@ -39,11 +38,7 @@ const hirthick = {
     currently: "Building scalable ML systems",
     openTo: "Data Engineering, ML Engineering, AI roles"
 };
-
 console.log("Production systems that actually scale 🚀");
-```
-
-</td></tr></table>
 
 </div>
 <br>
