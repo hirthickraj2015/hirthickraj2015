@@ -4,15 +4,19 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%9A%80+Shipping+production+ML+systems;%F0%9F%92%B0+%24180K+revenue+%7C+99.9%25+uptime+%7C+5TB%2B+daily;%F0%9F%94%A5+PySpark+%E2%80%A2+Azure+%E2%80%A2+Databricks+%E2%80%A2+PyTorch)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=Shipping+production+ML+systems+%F0%9F%9A%80;%24180K+revenue+%7C+99.9%25+uptime+%7C+5TB%2B+daily+%F0%9F%92%B0;PySpark+%E2%80%A2+Azure+%E2%80%A2+Databricks+%E2%80%A2+PyTorch+%F0%9F%94%A5;Building+scalable+AI+pipelines+%E2%9A%A1;99.9%25+reliable+infrastructure+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 </div>
+
+<br>
 
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=hirthickraj2015&icon=5&color=0)](https://visitcount.itsvg.in)
 
 </div>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
